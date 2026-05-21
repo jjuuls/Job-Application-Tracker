@@ -97,6 +97,14 @@ Job Application Tracker
 
 ---
 
+## Sample Data
+
+A sample JSON file (`applications_sample.json`) is included to demonstrate the application's data structure.
+
+Personal job application data is excluded from version control using `.gitignore`.
+
+---
+
 ## Project Structure
 
 ```text
