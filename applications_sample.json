@@ -1,0 +1,10 @@
+[
+    {
+        "company": "Example Company",
+        "position": "Python Developer",
+        "status": "Applied",
+        "date_applied": "2026-05-21",
+        "job_link": "https://example.com",
+        "notes": "Example application"
+    }
+]
