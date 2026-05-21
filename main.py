@@ -325,6 +325,62 @@ def filter_by_status():
         print(f"No applications found with status: {selected_status}")
 
 
+def application_dashboard():
+
+    applications = load_applications()
+
+    if not applications:
+
+        print("No applications found.")
+
+        return
+    
+    status_counts = {
+
+        "Applied": 0,
+
+        "Interview Scheduled": 0,
+
+        "Interviewed": 0,
+
+        "Rejected": 0,
+
+        "Offer Received": 0
+    }
+
+    for app in applications:
+
+        status = app.get("status", "N/A")
+
+        if status in status_counts:
+
+            status_counts[status] += 1
+
+        else:
+
+            status_counts["Applied"] += 1
+
+    print(f"""
+          
+    Job Application Dashboard
+
+    Total Applications: {len(applications)}
+
+    Applied: {status_counts["Applied"]}
+
+    Interview Scheduled: {status_counts["Interview Scheduled"]}
+    
+    Interviewed: {status_counts["Interviewed"]}
+    
+    Rejected: {status_counts["Rejected"]}
+    
+    Offer Received: {status_counts["Offer Received"]}
+
+    --------------------
+    
+    """)
+
+
 def main():
 
     # Keep the application running until the user explicitly chooses to exit
@@ -346,7 +402,9 @@ def main():
               
         6. Filter by status
               
-        7. Exit
+        7. View dashboard
+              
+        8. Exit
               
         """)
 
@@ -378,6 +436,10 @@ def main():
 
         elif choice == "7":
 
+            application_dashboard()
+        
+        elif choice == "8":
+        
             print("Goodbye!")
 
             break

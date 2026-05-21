@@ -12,3 +12,9 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Log files
+*.log
+
+# JSON files
+applications.json

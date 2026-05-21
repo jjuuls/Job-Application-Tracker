@@ -1,1 +1,83 @@
-[]
+[
+    {
+        "company": "Trexquant Investment",
+        "position": "Software Engineer - Early Career",
+        "location": "NYC",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://www.indeed.com/cmp/Trexquant-Investment-Lp?campaignid=mobvjcmp&from=mobviewjob&tk=1jp3h0vtpljec800&fromjk=9cf729f91937853f",
+        "notes": "130-170k "
+    },
+    {
+        "company": "ROKT",
+        "position": "Junior Software Engineer",
+        "location": "NYC",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://apply.workable.com/rokt/j/783A754DDB/",
+        "notes": "onsite 4 days a week"
+    },
+    {
+        "company": "ADP",
+        "position": "WorkForce Software, Pre-Sales Technical Application Consultant",
+        "location": "Roseland, NJ",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://jobs.adp.com/en/jobs/275918/workforce-software-pre-sales-technical-application-consultant/?rb=INDEED&ittk=PBEBKAV9HQ",
+        "notes": "50-130k"
+    },
+    {
+        "company": "Accenture",
+        "position": "Python/Oracle Exadata Support Engineer",
+        "location": " Morristown, NJ",
+        "date_applied": "2026-05-20",
+        "status": "Rejected",
+        "link": "https://www.accenture.com/us-en/careers/jobdetails?id=14306948_en",
+        "notes": "44-54 hr "
+    },
+    {
+        "company": "Broadridge",
+        "position": "Software Engineer (Development & QA Automation)",
+        "location": "Newark, NJ or New York, NY",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/Edgewood-NY/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563?sid=47",
+        "notes": "90-95k"
+    },
+    {
+        "company": "FIT Franchise Brands",
+        "position": "Marketing Automation Specialist",
+        "location": "Manalapan, NJ",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://www.indeed.com/cmp/Fit-Franchise-Brands?campaignid=mobvjcmp&from=mobviewjob&tk=1jp3ougmajn1r801&fromjk=61f5df537cc8694f",
+        "notes": "55-60k"
+    },
+    {
+        "company": "Wells Fargo",
+        "position": "Engineering Associate \u2013 Data Engineering & Analytics",
+        "location": "ISELIN, NJ",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://www.wellsfargojobs.com/en/jobs/r-547035/engineering-associate-data-engineering-analytics/?ittk=PVMRM02NWG&publisher=Indeed-organic&utm_campaign=Indeed&utm_medium=organic&utm_source=joveo&jClickId=194526c6-2cab-4eff-9f98-d311b39073b5",
+        "notes": "28.85-52.40 hr"
+    },
+    {
+        "company": "RTTS",
+        "position": "Software Test Engineer (Entry Level)",
+        "location": "remote or nyc",
+        "date_applied": "2026-05-20",
+        "status": "Applied",
+        "link": "https://www.indeed.com/cmp/Rtts-1?campaignid=mobvjcmp&from=mobviewjob&tk=1jp3r8sqol00p800&fromjk=2e75e0f7e650c256",
+        "notes": "60-70k"
+    },
+    {
+        "company": "OpenSesame",
+        "position": "Associate Software Engineer",
+        "location": "Remote",
+        "date_applied": "2026-05-21",
+        "status": "Applied",
+        "link": "https://www.indeed.com/cmp/Opensesame/jobs?jk=4033734dc761cea5&start=0&clearPrefilter=1",
+        "notes": "98k"
+    }
+]
