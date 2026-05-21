@@ -20,6 +20,7 @@ This application allows users to store, manage, search, update, and track job ap
 - Case-insensitive searching
 - Menu-driven command-line interface
 - Error handling for missing or invalid JSON files
+- Application statistics dashboard
 
 ---
 
@@ -123,7 +124,6 @@ Job-Application-Tracker/
 - Edit existing application details
 - Sort applications by date
 - Export applications to CSV
-- Application statistics dashboard
 - Interview scheduling reminders
 - Company contact tracking
 - Resume and cover letter tracking
